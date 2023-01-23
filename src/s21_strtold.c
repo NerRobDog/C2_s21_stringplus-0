@@ -122,7 +122,7 @@ static long double s21_atof(const char *buffer) {
 
     long double res = s21_atoi(p);
 
-    while (isdigit(*p))
+    while (s21_isdigit(*p))
         p++;
 
     if (*p == '.') {

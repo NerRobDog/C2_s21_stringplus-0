@@ -18,6 +18,7 @@ s21_size_t s21_strlen(const char *str);
 s21_size_t s21_strspn(const char *str1, const char *str2);
 void *s21_memset(void *str, int c, s21_size_t n);
 char *s21_strcpy(char *dest, const char *src);
+int s21_isdigit(char c);
 int s21_atoi(const char *str_carriage);
 int s21_sscanf(const char *str, const char *format, ...);
 
