@@ -3,8 +3,6 @@
 #ifndef SRC_S21_SSCANF_H_
 #define SRC_S21_SSCANF_H_
 
-// TODO: s21_isdigit заменен
-
 typedef enum token_width {
     NONE_WIDTH,
     WIDTH_NUMBER,
