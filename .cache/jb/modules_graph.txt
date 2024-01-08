@@ -1,0 +1,4 @@
+2
+0
+{"Hash":"","Name":"","Path":"/Users/nik/Documents/21_School/C2_s21_stringplus-0/src/s21_string.c"}
+{"Hash":"","Name":"","Path":"/Users/nik/Documents/21_School/C2_s21_stringplus-0/src/main.c"}

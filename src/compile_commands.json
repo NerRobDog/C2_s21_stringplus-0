@@ -1,0 +1,38 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-std=c11",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-pedantic",
+      "-nostdinc",
+      "-o",
+      "s21_string",
+      "main.c"
+    ],
+    "directory": "/Users/nik/Documents/21_School/C2_s21_stringplus-0/src",
+    "file": "/Users/nik/Documents/21_School/C2_s21_stringplus-0/src/main.c",
+    "output": "/Users/nik/Documents/21_School/C2_s21_stringplus-0/src/s21_string"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-std=c11",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-pedantic",
+      "-nostdinc",
+      "-o",
+      "s21_string",
+      "s21_string.c"
+    ],
+    "directory": "/Users/nik/Documents/21_School/C2_s21_stringplus-0/src",
+    "file": "/Users/nik/Documents/21_School/C2_s21_stringplus-0/src/s21_string.c",
+    "output": "/Users/nik/Documents/21_School/C2_s21_stringplus-0/src/s21_string"
+  }
+]

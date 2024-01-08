@@ -1,0 +1,6 @@
+3
+1
+(0) {"HasHeaderGuard":false,"IsInclFromCL":false,"IsSystemHeader":false,"LangOptsHash":-7884584717971139152,"Paths":{"/Users/nik/Documents/21_School/C2_s21_stringplus-0/src/s21_string.c":["/Users/nik/Documents/21_School/C2_s21_stringplus-0/src/s21_string.c",[153,233,216,81,55,219,70,239]]},"PredefinedMacros":[["__GCC_HAVE_DWARF2_CFI_ASM","1"]],"UsedMacros":[]}
+(1) {"HasHeaderGuard":false,"IsInclFromCL":false,"IsSystemHeader":false,"LangOptsHash":-7884584717971139152,"Paths":{"/Users/nik/Documents/21_School/C2_s21_stringplus-0/src/main.c":["/Users/nik/Documents/21_School/C2_s21_stringplus-0/src/main.c",[90,245,161,66,10,5,8,250]]},"PredefinedMacros":[["__GCC_HAVE_DWARF2_CFI_ASM","1"]],"UsedMacros":[]}
+(2) {"HasHeaderGuard":false,"IsInclFromCL":false,"IsSystemHeader":false,"LangOptsHash":0,"Paths":{"/Users/nik/Documents/21_School/C2_s21_stringplus-0/src/s21_string.h":["/Users/nik/Documents/21_School/C2_s21_stringplus-0/src/s21_string.h",[54,76,10,94,169,78,162,33]]},"PredefinedMacros":[],"UsedMacros":[]}
+(1, 2) {"Ranges":[{"Length":23,"Offset":20}],"Roots":[1]}

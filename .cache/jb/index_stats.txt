@@ -1,0 +1,22 @@
+Number of errors = 1
+Number of compiled modules = 0
+No failed modules
+File /Users/nik/Documents/21_School/C2_s21_stringplus-0/src/main.c: 1 errors
+[1, 10]  - 'string.h' file not found
+Processed 1 TUs in
+ - real time = 57ms
+ - indexing CPU time = 57ms
+ - symbols writing CPU time = 0ms
+ - symbols reading CPU time = 0ms
+ - waiting to finish time = 0ms
+TU [/Users/nik/Documents/21_School/C2_s21_stringplus-0/src/main.c] processed in 57ms and succeed.
+
+WAIT TIME:
+Waiting for symbol files took 0ms
+Waiting for modules took 0ms of CPU time
+
+PROCESSED TIMES:
+File /Users/nik/Documents/21_School/C2_s21_stringplus-0/src/main.c processed 1 times
+File /Users/nik/Documents/21_School/C2_s21_stringplus-0/src/<command line> processed 1 times
+File /Users/nik/Documents/21_School/C2_s21_stringplus-0/src/<built-in> processed 1 times
+File /Users/nik/Documents/21_School/C2_s21_stringplus-0/src/s21_string.h processed 1 times
